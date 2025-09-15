@@ -1,1 +1,2 @@
 Main file of the project
+echo "Hello Sir, this is Aichatou. Work completed sucessfully" >> main.txt
